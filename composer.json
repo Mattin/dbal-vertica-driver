@@ -55,7 +55,7 @@
         "doctrine/dbal": "~3.0",
         "illuminate/support": "^8.0",
         "illuminate/database": "^8.0",
-        "symfony/options-resolver": "^5.2"
+        "symfony/options-resolver": "^6.0"
     },
     "extra": {
     }
